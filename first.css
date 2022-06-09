@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap');
+body{
+    margin: 0%;
+    padding:0%;
+    background-image: url(wp2856672.webp);
+}
+.heading{
+text-align: center;
+font-size: xx-large;
+font-family: sans-serif;
+
+}
+.form_body{
+    text-align: center;
+}
+
+li{ text-align: center;
+    margin: 20px;
+    list-style: none;
+    font-size: large;
+    font-family:'Roboto Slab', serif;;
+}
